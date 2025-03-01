@@ -37,3 +37,27 @@ t = 4.98×10^−9 s
 (b) ¿Cuál es su aceleración?. Utilice notación científica con 2 decimales en su respuesta. 
 1.20×1015 m/s2
 
+El de los carritos no lo logre 😶
+
+5. (20%) Un tren normalmente viaja con rapidez uniforme de 72km/h por un tramo largo de vía recta y plana. 
+Cierto día, el tren debe hacer una parada de 2.0 min en una estación sobre esta vía. Si el tren desacelera con una tasa uniforme de 1. 0 𝑚/𝑠2 y, 
+después de la parada, acelera con una tasa tiempo habrá perdido por parar en la estación? 
+0. 5 𝑚/𝑠2 de ¿cuánto tiempo habrá perdido por parar en la estación? 
+
+Los datos serian 
+Vi = 72 km/h que en m/s es 20 
+Vf = 0 al detenerse en la estacion 
+a = 0.5 m/s 
+desaceleracion = 1.0 m/s 
+y timepo perdido por el momento 2 min o 120 s 
+
+para la desaceleracion 
+vf = vi + a⋅t
+despejamos t 
+t = vf - vi / a 
+t = 0 - 20 / 1.0 = 20 s para desacelerar 
+
+y para ver cuanto durario para retomar su rapidez uniforme 
+t = 0 - 20 / 0.5 = 40 s 
+
+perderia 180s o 3 min, 120s en estaion mientras que otros 60s frenando y retomando velocidad 
