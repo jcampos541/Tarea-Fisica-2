@@ -11,5 +11,29 @@ a. ¿Cuánto tiempo transcurrirá hasta su siguiente visita al peluquero?.
 R/ un mes 
 2 + 1.5 = 3.5 
 o incluso 1.5 - 3.5 = 2 lo que equivale a un mes 
+Ya para que sea con cualquier medida seria (largo final - largo inicial) / 2 que es el prmedio 
+3.5 - 1.5 = 2 
+2 / 2 = 1 
+1 mes 
 
+3. (15%) Un electrón en un tubo de rayos catódicos acelera uniformemente desde una rapidez de 2. 00 𝑥104 𝑚/𝑠 m/s a 6. 00 𝑥106 𝑚/𝑠 en 1.50 cm. 
+
+(a) ¿En qué intervalo de tiempo el electrón recorre estos 1.50 cm? 
+
+vf2 = vi2 + 2ad
+despejamos a 
+a = vf2 - vi2 / 2d
+a = 2.00 x 10^4 - 6.00 x 10^6 / 2 1.50 
+1.20×1015 m/s2
+
+pero aun falta 
+
+vf = vi + at
+despejamos t 
+t = vf - vi / a 
+t = 2.00 x 10^4 - 6.00 x 10^6 / 1.20×1015
+t = 4.98×10^−9 s
+
+(b) ¿Cuál es su aceleración?. Utilice notación científica con 2 decimales en su respuesta. 
+1.20×1015 m/s2
 
